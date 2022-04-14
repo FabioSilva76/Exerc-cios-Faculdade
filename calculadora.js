@@ -20,7 +20,7 @@ function DIV (N1,N2){
     return d;
 }
 function imprimir (total){
-    alert(total)
+   alert(total);
 }
 var opc;
 
