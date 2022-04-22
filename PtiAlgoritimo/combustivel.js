@@ -5,7 +5,7 @@ do{
     var calc = alc / gas;
     var res = calc;
             
-    alert(res);
+    alert('A média é = ' + res +  ' , Então!');
     
     
     if(res > 0.7){
